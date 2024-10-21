@@ -35,22 +35,19 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
 <a href=&quothttps://github.com/ghost1372&quot>
 <img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372&quot />
 </a>
+
+
 ### 📫 How to reach me
 
 <div display="flex">
   <a href="https://www.linkedin.com/in/codewithbernard/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://twitter.com/CodeWithBernard">
-    <img src="https://img.shields.io/badge/codewithbernard-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@bernardbad">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/>
-  </a>
+ 
 </div>
 
 <a href="https://github.com/ghost1372">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372&theme=radical&layout=compact&hide=html,css&langs_count=8" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372&theme=radical" />
 </a>
 
 
