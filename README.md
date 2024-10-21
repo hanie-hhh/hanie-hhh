@@ -49,6 +49,7 @@ I'm using HTML, CSS, and JavaScript to make websites dance. 🕺🏽
   </a>
 </div>
 
-### ⚡ Fun fact
+<a href="https://github.com/ghost1372">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372&theme=radical" />
+</a>
 
-I'm definitely not a cat person.
