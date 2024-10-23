@@ -8,9 +8,11 @@ Hello! I’m Hanieh, an electrical engineer who has developed a deep passion for
  ![TypeScript](https://img.shields.io/badge/typescript-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)  ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hanie-hhh&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hanie-hhh&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hanie-hhh&theme=cobalt&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hanie-hhh&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hanie-hhh&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
