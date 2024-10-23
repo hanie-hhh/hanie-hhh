@@ -1,56 +1,21 @@
-## Hi there 👋
-
-###  I’m Hanie
-
-**I love working with**
-
-<div style="display: flex;">
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native"/>
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-</div>
+# 💫 About Me:
+Hello! I'm Hanieh, an electrical engineer who has fallen in love with the world of programming.<br><br><br><br><br><br><br>
 
 
-### 🔭 I’m working on
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hanie hasannejad) 
 
-- Projects for freelance clients.
-- Growing [Upbeat Code](https://www.upbeatcode.com) to 100k/month visitors.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=hanie-hhh&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hanie-hhh&theme=cobalt&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hanie-hhh&theme=cobalt&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🌱 I’m learning
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<div display="flex">
-  <img src="https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" alt="Hyperledger"/>
-  <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" alt="Ethereum"/>
-  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator"/>
-</div>
+---
+[![](https://visitcount.itsvg.in/api?id=hanie-hhh&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🤔 I’m looking for help with
-
-- Integrating AI models to web applications
-
-
-
-
-<a href=&quothttps://github.com/ghost1372&quot>
-<img align=&quotcenter&quot src=&quothttps://github-readme-stats.vercel.app/api/top-langs/?username=ghost1372&quot />
-</a>
-
-
-### 📫 How to reach me
-
-<div display="flex">
-  <a href="https://www.linkedin.com/in/haniehasannejad/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
- 
-</div>
-
-<a href="https://github.com/ghost1372">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanie-hhh&theme=radical" />
-</a>
-
-
-
-
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
